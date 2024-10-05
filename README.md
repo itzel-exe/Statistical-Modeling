@@ -1,1 +1,1 @@
-# Statistical-Modeling
+This work shows fundamental concepts of statistical model building, including inference, applied linear regression, multiple regression, prediction and variable selection, nonlinear and nonparametric regression, principal component analysis and factor analysis. Software and coding was used to apply the theory to examples and real data sets. 
